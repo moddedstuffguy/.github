@@ -1,5 +1,5 @@
-name: 🐛Bug Report
-description: Report a Bug
+name: 🐛Bug 📢Report
+description: Report📢 a 🐛BUG on this Repository
 title: "[BUG]: "
 labels: ["bug"]
 
@@ -27,7 +27,8 @@ body:
         1. Go to '...'
         2. Click on '...'
         3. Scroll down to '...'
-        4. See error
+        4. Write a description of what you did (optional) '...'
+        5. See error
     validations:
       required: true
   - type: textarea
